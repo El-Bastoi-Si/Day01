@@ -9,4 +9,4 @@ elif  nbr2>=nbr1 and nbr2>=nbr3:
 elif nbr3>=nbr2 and nbr3>=nbr1:
         print(f"La plus nomnre le plus grand  est {nbr3}")
 else :
-        print("les nombres que vous avez saisi sont egaux ")
+        print("les nombres que vous avez saisi sont egaux :")
